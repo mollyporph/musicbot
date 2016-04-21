@@ -5,8 +5,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/sosedoff/musicbot/mopidy"
-	"github.com/sosedoff/musicbot/slack"
+	"github.com/mollyporph/musicbot/mopidy"
+	"github.com/mollyporph/musicbot/slack"
 )
 
 type BotConfig struct {

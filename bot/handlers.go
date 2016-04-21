@@ -152,7 +152,7 @@ func Play(bot *Bot, match *Match) {
 	opts := spotify.SearchOptions{
 		Query: query,
 		Type:  "track",
-		Limit: 10,
+		Limit: 1,
 	}
 
 	result, err := spotify.Search(opts)

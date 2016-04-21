@@ -6,7 +6,7 @@ import (
 	"os/signal"
 
 	"github.com/jessevdk/go-flags"
-	"github.com/sosedoff/musicbot/bot"
+	"github.com/mollyporph/musicbot/bot"
 )
 
 const version = "0.1.0"
